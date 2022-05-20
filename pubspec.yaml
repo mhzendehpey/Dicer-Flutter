@@ -17,3 +17,16 @@ flutter:
 
   assets:
     - images/
+    - fonts/
+
+  fonts:
+    - family: Josefin
+      fonts:
+        - asset: fonts/JosefinSans-Regular.ttf
+          style: normal
+        - asset: fonts/JosefinSans-Bold.ttf
+          weight: 700
+        - asset: fonts/JosefinSans-Thin.ttf
+          weight: 100
+        - asset: fonts/JosefinSans-Light.ttf
+          weight: 300
